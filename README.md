@@ -95,6 +95,16 @@ Give a ⭐️ if this project helped you!
 [![Star History Chart](https://api.star-history.com/svg?repos=Peppermint-Lab/peppermint&type=Date)](https://star-history.com/#Peppermint-Lab/peppermint&Date)
 
 
+
+## Author
+
+👤 **Jack Andrews**
+
+- Website: [peppermint.sh](https://peppermint.sh/)
+- Twitter: [@andrewsjack18 ](https://twitter.com/andrewsjack18)
+- Github: [@potts99](https://github.com/potts99)
+- LinkedIn: [@jack-andrews-146852131](https://linkedin.com/in/jack-andrews-146852131)
+
 <p align="center">
   <a href='https://ko-fi.com/peppermintsh' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
  </p>
@@ -114,11 +124,5 @@ Give a ⭐️ if this project helped you!
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
-## Author
 
-👤 **Jack Andrews**
 
-- Website: [peppermint.sh](https://peppermint.sh/)
-- Twitter: [@andrewsjack18 ](https://twitter.com/andrewsjack18)
-- Github: [@potts99](https://github.com/potts99)
-- LinkedIn: [@jack-andrews-146852131](https://linkedin.com/in/jack-andrews-146852131)
