@@ -1,23 +1,5 @@
 <h1 align="center">Welcome to Peppermint Ticket Management 🍵</h1>
-<p align="center">
-  <a href='https://ko-fi.com/peppermintsh' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
- </p>
-<p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
-  <a target="_blank">
-    <img alt="Github Stars: " src="https://img.shields.io/github/stars/jwandrews99/winter?style=social" />
-  </a>
-  <img src="https://img.shields.io/docker/pulls/pepperlabs/peppermint" />
-</p>
-<p align="center">
-    <img src="https://peppermint.sh/images/logo_green.svg" alt="Logo" width="350px" >
-</p>
-<p align="center">This project is supported by:</p>
-<p align="center">
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-</p>
+
 
 > Ticket Management System in order to help helpdesks & service desks manage internal staff & customer requests
 
@@ -113,7 +95,25 @@ Give a ⭐️ if this project helped you!
 [![Star History Chart](https://api.star-history.com/svg?repos=Peppermint-Lab/peppermint&type=Date)](https://star-history.com/#Peppermint-Lab/peppermint&Date)
 
 
-
+<p align="center">
+  <a href='https://ko-fi.com/peppermintsh' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+ </p>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
+  <a target="_blank">
+    <img alt="Github Stars: " src="https://img.shields.io/github/stars/jwandrews99/winter?style=social" />
+  </a>
+  <img src="https://img.shields.io/docker/pulls/pepperlabs/peppermint" />
+</p>
+<p align="center">
+    <img src="https://peppermint.sh/images/logo_green.svg" alt="Logo" width="350px" >
+</p>
+<p align="center">This project is supported by:</p>
+<p align="center">
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
 ## Author
 
 👤 **Jack Andrews**
